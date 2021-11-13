@@ -282,6 +282,9 @@ fun main(args: Array<String>) {
     }.asReversed()
     println(movilesAlso)
 
+    
+
+
 }
 //////FUNCIONES/////////
 ///SE DEBEN CREAR FUERA DE LA FUNCION MAIN Y LLAMARSE DENTRO DE ESTA////////////
